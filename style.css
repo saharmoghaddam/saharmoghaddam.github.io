@@ -1,0 +1,36 @@
+body {
+    background-color: #F5F5DC;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 85px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+
+/* this is how you refer to an id */
+#firstSubHeading {
+    color: black;
+    text-align: center;
+    /* font-size: 65px; */
+}
+
+/* This is how you refer to a class */
+.textWriting {
+    font-size: 20px;
+    color: purple;
+    text-align: center;
+}
+
+#Cleveland-Cavaliers-Logo-Wallpaper-HD {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
